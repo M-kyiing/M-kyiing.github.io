@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"my.uum","l":"MainClass"},{"p":"my.uum","l":"s276984Bot"},{"p":"my.uum","l":"SQLite"}];updateSearchResults();
